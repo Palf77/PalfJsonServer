@@ -1,23 +1,23 @@
 {
     "users" : [
       {
-        "id":1,
-        "name":"tof",
+        "id": 1,
+        "name": "tof",
         "todos":[
           {
-            "id":1,
-            "title":"Todo1",
-            "desc":"Todo todo des 1"
+            "id": 1,
+            "title": "Todo1",
+            "desc": "Todo todo des 1"
           },
           {
-            "id":2,
-            "title":"Todo2",
-            "desc":"Todo todo des 2"
+            "id": 2,
+            "title": "Todo2",
+            "desc": "Todo todo des 2"
           },
           {
-            "id":3,
-            "title":"Todo3",
-            "desc":"Todo todo des 3"
+            "id": 3,
+            "title": "Todo3",
+            "desc": "Todo todo des 3"
           }
         ]
       }
